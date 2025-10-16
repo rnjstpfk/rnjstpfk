@@ -41,12 +41,12 @@
 
 | 프로젝트 | 설명 | 기술 |
 |-----------|-------|------|
-| 🎬 [**My Movie App**](https://github.com/rnjstpfk/movie-app) | TMDB API를 활용해 실시간 개봉·인기 영화를 보여주는 앱. Firebase 로그인과 좋아요 기능 포함. | `React` `API` `Firebase` |
-| ☕ [**Starbucks Clone**](https://github.com/rnjstpfk/strarbucks) | HTML/CSS로 스타벅스 웹사이트 클론. 반응형과 시멘틱 마크업 중심. | `HTML` `CSS` |
-| 👗 [**아뜨랑스 클론**](https://github.com/rnjstpfk/shop2) | React와 SCSS로 아뜨랑스 메인 페이지 UI 클론. 컴포넌트 단위 구조 설계. | `React` `SCSS` |
-| 💊 [**OK DRUGS**](https://github.com/rnjstpfk/ok1) | React/Firebase로 로그인·게시글·댓글·좋아요 기능 구현한 클론 프로젝트. | `React` `Firebase` `SCSS` |
-| 🖼️ [**ARCHIVE MUSEE (Team)**](https://github.com/rnjstpfk/team1) | 박물관 작품 탐색 웹사이트. 자체 데이터셋 제작·연동, 로그인 및 검색 기능 구현. | `React` `Firebase` `Team` |
-| 🛍️ [**ShopFrame (Team)**](https://github.com/rnjstpfk/shopframe) | 사용자 커스텀 정보로 자동 쇼핑몰 생성 웹 빌더. 컴포넌트 구조 설계 담당. | `React` `Firebase` `Team` |
+| 🎬 [**My Movie App**](https://github.com/rnjstpfk/movie-app) ｜ [Live](https://movie-app-six-brown-53.vercel.app/) | TMDB API를 활용해 실시간 개봉·인기 영화를 보여주는 앱. Firebase 로그인과 좋아요 기능 포함. | `React` `API` `Firebase` |
+| ☕ [**Starbucks Clone**](https://github.com/rnjstpfk/strarbucks) ｜ [Live](https://rnjstpfk.github.io/strarbucks/) | HTML/CSS로 스타벅스 웹사이트 클론. 반응형과 시멘틱 마크업 중심. | `HTML` `CSS` |
+| 👗 [**아뜨랑스 클론**](https://github.com/rnjstpfk/shop2) ｜ [Live](https://rnjstpfk.github.io/shop2/) | React와 SCSS로 아뜨랑스 메인 페이지 UI 클론. 컴포넌트 단위 구조 설계. | `React` `SCSS` |
+| 💊 [**OK DRUGS**](https://github.com/rnjstpfk/ok1) ｜ [Live](https://ok1-phi.vercel.app/) | React/Firebase로 로그인·게시글·댓글·좋아요 기능 구현한 클론 프로젝트. | `React` `Firebase` `SCSS` |
+| 🖼️ [**ARCHIVE MUSEE (Team)**](https://github.com/rnjstpfk/team1) ｜ [Live](https://team1-2c9b9.web.app) | 박물관 작품 탐색 웹사이트. 자체 데이터셋 제작·연동, 로그인 및 검색 기능 구현. | `React` `Firebase` `Team` |
+| 🛍️ [**ShopFrame (Team)**](https://github.com/rnjstpfk/shopframe) ｜ [Live](https://hotel-83914.web.app/) | 사용자 커스텀 정보로 자동 쇼핑몰 생성 웹 빌더. 컴포넌트 구조 설계 담당. | `React` `Firebase` `Team` |
 
 ---
 
