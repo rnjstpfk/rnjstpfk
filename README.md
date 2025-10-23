@@ -6,9 +6,7 @@
 <h1 align="center">🍀 Welcome to My GitHub 🍀</h1>
 
 <p align="center">
-  <a href="mailto:sera9898@naver.com"><img alt="Email" src="https://img.shields.io/badge/Naver-9AE69A?style=for-the-badge&logo=naver&logoColor=black"/></a>
-  <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-A7E0F7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://your-portfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F9D6E3?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://sera-portfolio-l3kd.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F9D6E3?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </p>
 
 ---
